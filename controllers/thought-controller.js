@@ -91,7 +91,7 @@ const thoughtController = {
 
   async deleteThought(req, res) {
     try {
-      const dbThoughtInfo = await Thought.findByIdAndDelete({ _id: req.params.ThoughtId });
+      const dbThoughtInfo = await Thought.findByIdAndDelete({ _id: req.params.thoughtId });
 
       if (!dbThoughtInfo) {
         res.status(404).json({ message: `Can't find thought with that id.` });
