@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.7"
+  },
+  "name": "mosersocialnetworkapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmoser5/mosersocialnetworkapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmoser5/mosersocialnetworkapi/issues"
+  },
+  "homepage": "https://github.com/jcmoser5/mosersocialnetworkapi#readme",
+  "description": ""
+}
