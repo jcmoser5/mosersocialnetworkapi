@@ -22,7 +22,7 @@ Start server by running:
 node server.js
 ```
 
-This is a [demo video]() to show usage.
+This is a [demo video](https://drive.google.com/file/d/1NDT8CHkgx2tRfliiz_3xHrbTcuFiOmV5/view) to show usage.
 
 ## License
 Licensed under the MIT license. Utilizes [Mongoose](https://www.npmjs.com/package/mongoose), [Express](https://www.npmjs.com/package/express), and [Moment](https://www.npmjs.com/package/moment). 
