@@ -3,7 +3,7 @@ const apiRoutes = require('./api');
 
 router.use('/api', apiRoutes);
 
-router.use((res, res) => {
+router.use((req, res) => {
   res.status(404).json({ message: `Page not found` });
 });
 
